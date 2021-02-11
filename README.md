@@ -1,5 +1,5 @@
 # PlistaTaskAssignment
-this is task assignment given by plista in TestCafe
+this is task assignment given by plista
 
 #Creating a Test in testcafe
 TestCafe allows you to write tests using TypeScript or JavaScript (with its modern features like async/await). You get all the advantages of strongly-typed languages like rich coding assistance, painless scalability, check-as-you-type code verification, etc., by using TypeScript to write your TestCafe tests. For more information about writing tests in TypeScript, see TypeScript Support.
