@@ -1,0 +1,14 @@
+{
+  "name": "plistatestcafetask",
+  "version": "1.0.0",
+  "description": "this is task assignments in testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome test/"
+  },
+  "author": "Pramod Kokadwar",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.10.1"
+  }
+}
